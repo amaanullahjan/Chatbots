@@ -1,1 +1,18 @@
 This is my First text file
+For Enivironment Setting:-
+i-    Create an account on Github.com
+ii-   Open cmd
+iii-  For cloning write command in cmd
+      git clone "Repo URL"
+iv-   For git is it clone write command
+      git -v
+v-    Download VS Code and then create Text file
+      and write some text.
+vi-   For adding the data write command
+      git add .      
+vii-  After write some text then for 
+      commit write the command 
+      git commit -m "message"
+viii- For sending or pushing the text, code or
+      data write command
+      git push            
