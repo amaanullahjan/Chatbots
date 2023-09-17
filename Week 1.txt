@@ -6,13 +6,11 @@ iii-   Download git from google or other Search Engine which you use
 iv-    Open cmd
 v-     For cloning write command in cmd
        git clone "Repo URL"
-vi-    For git is it clone write command
-       git -v
+vi-    For git is it clone write command git -v
 vii-   Download VS Code and then create Text file
        and write some text.
 viii-  For adding the data write command git add .      
 ix-    After write some text then for 
-       commit write the command 
-       git commit -m "message"
+       commit write the command git commit -m "message"
 x-     For sending or pushing the text, code or data write command
        git push            
